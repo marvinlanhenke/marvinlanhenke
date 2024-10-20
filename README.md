@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/Git%20-%2314354C.svg?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux%20-%2314354C.svg?style=for-the-badge&logo=Linux&logoColor=white">
 </div>
-<br><br>
-
-<div style="display:flex-row; justify-content:center">
-      <img  src="https://github-readme-stats.vercel.app/api?username=marvinlanhenke&theme=dark&show_icons=true&count_private=true" />
-      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marvinlanhenke&theme=dark&hide_border=false" /> 
-</div>
 
 <h2>Let's connect</h2>
   <a href="https://linkedin.com/in/marvinlanhenke" target="_blank">
