@@ -1,4 +1,4 @@
-<h2>Hi there 👋</h3>
+<h3>Hi there 👋</h3>
 
 <p><em>I'm a Solutions Architect with hands-on experience in designing and implementing modern data architectures and pipelines. An autodidactic and passionate software engineer, specializing in backend and distributed systems. Actively developing in Rust, Go, and Python.</em></p>
 
@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=SQL&logoColor=white">
 </div>
 <div style="display:flex">
-  <img src="https://img.shields.io/badge/azure-%2314354C.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20-%2314354C.svg?style=for-the-badge&logo=Amazon Web Services&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker%20-%2314354C.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-%2314354C.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20-%2314354C.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker%20-%2314354C.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Terraform%20-%2314354C.svg?style=for-the-badge&logo=Terraform&logoColor=white">
