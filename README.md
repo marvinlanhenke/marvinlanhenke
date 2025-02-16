@@ -11,7 +11,7 @@
 </div>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/azure-%2314354C.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20-%2314354C.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/AWS%20-%2314354C.svg?style=for-the-badge&logo=amazonaws&logoColor=white">-->
   <img src="https://img.shields.io/badge/Docker%20-%2314354C.svg?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
 <div style="display:flex">
