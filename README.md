@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=Rust&logoColor=white">
   <img src="https://img.shields.io/badge/Go%20-%2314354C.svg?style=for-the-badge&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20-%2314354C.svg?style=for-the-badge&logo=SQL&logoColor=white">
 </div>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Docker%20-%2314354C.svg?style=for-the-badge&logo=docker&logoColor=white">
