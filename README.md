@@ -12,6 +12,7 @@
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Docker%20-%2314354C.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes%20-%2314354C.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20-%2314354C.svg?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white">
 </div>
 <div style="display:flex">
   <img src="https://img.shields.io/badge/Terraform%20-%2314354C.svg?style=for-the-badge&logo=Terraform&logoColor=white">
